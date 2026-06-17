@@ -1,0 +1,50 @@
+[
+  {
+    "name": "zaheer",
+    "age": 22,
+    "email": "zaheer@gmail.com",
+    "pin": 1234,
+    "account": 1234,
+    "balance": 0
+  },
+  {
+    "name": "ahmed",
+    "age": 23,
+    "email": "ahmed@gmail.com",
+    "pin": "1234",
+    "account": "$84mR3j",
+    "balance": 0
+  },
+  {
+    "name": "jan",
+    "age": 25,
+    "email": "ali@gmail.com",
+    "pin": 123432,
+    "account": "y005O%s",
+    "balance": 4000
+  },
+  {
+    "name": "Zaheer",
+    "age": 22,
+    "email": "zaheer@gmail.com",
+    "pin": 1234,
+    "account": "!31Fi9k",
+    "balance": 0
+  },
+  {
+    "name": "Zaheer Ahmed",
+    "age": 23,
+    "email": "zaheerahmed@gmail.com",
+    "pin": 1239,
+    "account": "J4q!F74",
+    "balance": 0
+  },
+  {
+    "name": "ABC",
+    "age": 26,
+    "email": "abc@gmail.com",
+    "pin": 1267,
+    "account": "T@qI726",
+    "balance": 0
+  }
+]
